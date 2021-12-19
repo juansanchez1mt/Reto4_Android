@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mis Productos Navideños</string>
+    <string name="nav_header_title">Bienvenido</string>
+    <string name="nav_header_subtitle">prueba</string>
+    <string name="nav_header_desc">descripcion de mi app</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_productos">Productos</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+
+</resources>
